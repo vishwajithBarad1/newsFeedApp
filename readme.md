@@ -13,7 +13,7 @@ A React Native application that displays a news feed in the form of short cards,
 1. Clone the repository:
    ```
    git clone https://github.com/vishwajithBarad1/newsFeedApp.git
-   cd news-feed-app
+   cd frontend
    ```
 
 2. Install dependencies:
